@@ -1,5 +1,3 @@
-const { config } = require("npm");
-
 module.exports = {
   "stories": [
     "../src/**/*.stories.mdx",
